@@ -1,0 +1,164 @@
+{
+  "Condominio": {
+    "nomeDoCondominio": "Pelicano Manco",
+    "cpfDoSindico": "092.449.184-14",
+    "endereco": "Rua pa pa guaio nº30",
+    "cnpjDoCondomínio": "123.123.123/4567-89",
+    "valorDaTaxaCondominial": "380.50",
+    "tamanhoDaAreaComum": 80.4,
+    "quantidadeDeElevadores": 4,
+    "quantidadeDeDuncionarios": 5,
+    "quantidadeDeApartamentos": 65,
+    "funcionarios": [
+      {
+        "CPF": "111.111.111-11",
+        "Nome_completo": "Rodeolpho Marlon",
+        "Data_de_admissão": "15/02/1980",
+        "Função": "Zelador",
+        "Salário": "1800.60"
+      },
+      {
+        "CPF": "222.222.222-22",
+        "nomeCompleto": "Batista Silva",
+        "dataDeAdmissao": "14/06/1989",
+        "funcao": "Porteiro",
+        "salario": "1500.00"
+      },
+      {
+        "CPF": "333.333.333-33",
+        "nomeCompleto": "Amanda Ketilly",
+        "datadeAdmissao": "05/12/2000",
+        "funcao": "Recepcionista",
+        "salario": "2000.00"
+      },
+      {
+        "CPF": "444.444.444.44",
+        "nomeCompleto": "Nivea Roma",
+        "dataDeAdmissao": "25/04/2001",
+        "funcao": "Copeiro",
+        "salario": "1200.00"
+      },
+      {
+        "CPF": "555.555.555-55",
+        "nomeCompleto": "Cleide Damascena",
+        "dataDeAdmissao": "22/08/1991",
+        "funcao": "Segurança",
+        "Salario": "1537.22"
+      }
+    ],
+    "apartamentos": [
+      {
+        "numero": 7,
+        "andar": "2°",
+        "moradores": [
+          {
+            "CPF": "123.123.123-12",
+            "nomeCompleto": "Abrãao Manoel"
+          }
+        ]
+      },
+      {
+        "numero": 1,
+        "andar": "1°",
+        "moradores": [
+          {
+            "CPF": "123.123.122-12",
+            "nomeCompleto": "Bento Alado"
+          },
+          {
+            "CPF": "742.431.189-12",
+            "nomeCompleto": "Bianca Alado"
+          }
+        ]
+      },
+      {
+        "Número": 17,
+        "Andar": "5°",
+        "Moradores": [
+          {
+            "CPF": "005.307.510-03",
+            "nome_completo": "Kalunga Loja"
+          }
+        ]
+      },
+      {
+        "Número": 2,
+        "Andar": "1°",
+        "Moradores": [
+          {
+            "CPF": "111.407.410-03",
+            "nome_completo": "Brendo Jamili"
+          }
+        ]
+      },
+      {
+        "Número": 4,
+        "Andar": "1°",
+        "Moradores": [
+          {
+            "CPF": "211.402.420-23",
+            "nome_completo": "Marcolino Freitas"
+          },
+          {
+            "CPF": "818.452.450-55",
+            "nome_completo": "Arcoiris Freitas"
+          }
+        ]
+      },
+      {
+        "Número": 8,
+        "Andar": "2°",
+        "Moradores": [
+          {
+            "CPF": "224.402.420-23",
+            "nome_completo": "Palhaço Plin plin"
+          }
+        ]
+      },
+      {
+        "Número": 7,
+        "Andar": "2°",
+        "Moradores": [
+          {
+            "CPF": "211.402.420-23",
+            "nome_completo": "Ramos Barros"
+          }
+        ]
+        
+      },
+       {
+        "Número": 12,
+        "Andar": "2°",
+        "Moradores": [
+          {
+            "CPF": "211.422.420-27",
+            "nome_completo": "Romero Britalinho"
+          }
+        ]
+        
+      },
+      {
+        "Número": 23,
+        "Andar": "3°",
+        "Moradores": [
+          {
+            "CPF": "211.402.428-27",
+            "nome_completo": "Nicolau Máquiavel"
+          }
+        ]
+        
+      },
+      {
+        "Número": 54,
+        "Andar": "2°",
+        "Moradores": [
+          {
+            "CPF": "888.402.888-23",
+            "nome_completo": "Jomeu Filho "
+          }
+        ]
+      }
+    ]
+  }
+}
+	

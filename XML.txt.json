@@ -1,0 +1,155 @@
+<?xml version="1.0" enconding= "UTF-8 standalone = "yes"?>
+<CONDOMINIOS>
+<CONDOMINIO>
+<nomeCondominio>Pelicano Manco</nomeCondominio>
+<cpfDoSindico> 222.222.222.22</cpfSindico>
+<endereco>Rua pa pa guaio n.30</endereco>
+<cnpj>123.123.123/4567-89</cnpj>
+<taxa>380.50</taxa>
+<areaComum>80.4</areaComum>
+<quantidadeElevador>4</qntElevador>
+<quantidadeFunci>10</qntFuncio>
+<quantidadeApart>65</qntApart>
+<CONDOMINIO>
+
+<FUNCIONARIOS>
+<FUNCIONARIO>
+<nome>Arthur Vinicius </nome>
+<cpf>11111111111</cpf>
+<dataAdmissao><22.01.2020</dataAdmissao>
+<funcao>dono de tudo </funcao>
+<salario> 25.000</salario>
+<FUNCIONARIO>
+
+<FUNCIONARIO>
+<nome> Vinicius Jodom </nome>
+<cpf>222222222222</cpf>
+<dataAdmissao><22.01.2020</dataAdmissao>
+<funcao>dono de tudo</função>
+<salario>1.200</salario>
+<FUNCIONARIO>
+
+<FUNCIONARIO>
+<nome> Jomeu Jango </nome>
+<cpf>33333333333</cpf>
+<dataAdmissao>19.03.2018</dataAdmissao>
+<funcao>Vigilante</função>
+<salario>1.500</salario>
+<FUNCIONARIO>
+
+<FUNCIONARIO>
+<nome>Afonso Silva</nome>
+<cpf>55555555555</cpf>
+<dataAdmissao>11.07.2018</dataAdmissao>
+<funcao>Zelador</função>
+<salario> 1.000</salario>
+<FUNCIONARIO>
+
+<FUNCIONARIO>
+<nome>Spling Jango</nome>
+<cpf>44444444444</cpf>
+<dataAdmissao>10.05.2015</dataAdmissao>
+<funcao>Zelador</função>
+<salario>1.000</salario>
+<FUNCIONARIO>
+<FUNCIONARIOS>
+
+
+<APARTAMENTOS>
+
+<APARTAMENTO>
+<numApart>21</numApart>
+<andarApart>1</andarApart>
+<MORADOR>
+<cpf>22222222222</cpf>
+<nomeCompleto>Arthur Vinicius Gomes Santos</nomeCompleto>
+<MORADOR>
+<APARTAMENTO>
+
+<APARTAMENTO>
+<numApart>22</numApart>
+<andarApart>1</andarApart>
+<MORADOR>
+<cpf>11111111111111</cpf>
+<nomeCompleto>João Ferreira Brito</nomeCompleto>
+<MORADOR>
+<APARTAMENTO>
+
+<APARTAMENTO>
+<numApart>23</numApart>
+<andarApart>1</andarApart>
+<MORADOR>
+<cpf>33333333333</cpf>
+<nomeCompleto>Gomes Holanda Ferreira</nomeCompleto>
+<MORADOR>
+<APARTAMENTO>
+
+<APARTAMENTO>
+<numApart>24</numApart>
+<andarApart>2</andarApart>
+<MORADOR>
+<cpf>44444444444</cpf>
+<nomeCompleto>Abraão Manoel Carpina</nomeCompleto>
+<MORADOR>
+<APARTAMENTO>
+
+<APARTAMENTO>
+<numApart>25</numApart>
+<andarApart>3</andarApart>
+<MORADOR>
+<cpf>55555555555</cpf>
+<nomeCompleto>Matiasa Holanda Ferreira</nomeCompleto>
+<MORADOR>
+<APARTAMENTO>
+
+<APARTAMENTO>
+<numApart>26</numApart>
+<andarApart>3</andarApart>
+<MORADOR>
+<cpf>66666666666</cpf>
+<nomeCompleto>Rogerio Abelha Música</nomeCompleto>
+<MORADOR>
+<APARTAMENTO>
+
+<APARTAMENTO>
+<numApart>27</numApart>
+<andarApart>3</andarApart>
+<MORADOR>
+<cpf>77777777777</cpf>
+<nomeCompleto>Pinto Quenho Luiz Magalhães</nomeCompleto>
+<MORADOR>
+<APARTAMENTO>
+
+<APARTAMENTO>
+<numApart>8</numApart>
+<andarApart>7</andarApart>
+<MORADOR>
+<cpf>88888888888</cpf>
+<nomeCompleto>Herbertes Holanda Nova Roma</nomeCompleto>
+<MORADOR>
+<APARTAMENTO>
+
+<APARTAMENTO>
+<numApart>28</numApart>
+<andarApart>7</andarApart>
+<MORADOR>
+<cpf>99999999999</cpf>
+<nomeCompleto>Gabriel Dedun Padro</nomeCompleto>
+<MORADOR>
+<APARTAMENTO>
+
+<APARTAMENTO>
+<numApart>2</numApart>
+<andarApart>1</andarApart>
+<MORADOR>
+<cpf>12345612312</cpf>
+<nomeCompleto>Silveira Pinto Luiz</nomeCompleto>
+<MORADOR>
+<APARTAMENTO>
+<APARTAMENTOS>
+
+<CONDOMINIOS>
+
+
+
+
